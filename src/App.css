@@ -1,0 +1,54 @@
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.logo {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.fild {
+  margin-top: 1em;
+  font-family: "Arial";
+}
+#canvas {
+  background-color: white;
+  border: 2px solid black;
+}
+button {
+  margin-top: 3em;
+}
+.color-picker {
+  width: 1.5em;
+  height: 1.5em;
+  display: inline-block;
+  margin-right: 2px;
+  cursor: pointer;
+
+}
+
+.canvas-pallete {
+  display: flex;
+  flex-direction: row;
+}
+.abc {
+  background-color: whitesmoke;
+}
+.brush {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 0.2em;
+  cursor: pointer;
+  padding-top: 0.4em;
+  padding-bottom: 1em;
+  border: 2px solid rgb(92, 91, 91);
+}
+
+.nav {
+  cursor: pointer;
+}
