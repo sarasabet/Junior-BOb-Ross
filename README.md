@@ -3,7 +3,7 @@
 This is a front-end project, which clones simple paint application.
 
 # Features
- User can pick some specifi color from the palette
+ User can pick some specifi colors from the palette
  User have access to color picker 
  user can oick prope brush size
  user can pick proper ereaser size 
@@ -13,7 +13,7 @@ This is a front-end project, which clones simple paint application.
 
 # Final product
 
-!["home page-1"]()
+!["home page-1"](https://github.com/sarasabet/Junior-BOb-Ross/blob/master/public/doc/landingPage.png)
 
 # Setup
 Install dependencies with npm install in the client 
